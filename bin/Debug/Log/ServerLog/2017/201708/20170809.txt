@@ -1,0 +1,31 @@
+
+16:49:27,768 [INFO ] Configuration Result:
+[Success] Name Quartz服务名称
+[Success] DisplayName Quartz服务显示名称
+[Success] Description Quartz调度服务描述
+[Success] ServiceName Quartz服务名称
+16:49:27,784 [INFO ] Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000
+16:49:27,909 [DEBUG] Running as a console application, creating the console host.
+16:49:28,080 [DEBUG] Starting up as a console application
+16:49:28,393 [INFO ] The Quartz服务名称 service is now running, press Control+C to exit.
+16:49:28,409 [INFO ] TestJob测试
+16:49:28,409 [ERROR] 错大师傅大师傅但是
+16:49:30,003 [INFO ] TestJob测试
+16:49:30,003 [ERROR] 错大师傅大师傅但是
+16:50:54,554 [INFO ] Configuration Result:
+[Success] Name Quartz服务名称
+[Success] DisplayName Quartz服务显示名称
+[Success] Description Quartz调度服务描述
+[Success] ServiceName Quartz服务名称
+16:50:54,570 [INFO ] Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000
+16:50:54,679 [DEBUG] Running as a console application, creating the console host.
+16:50:54,679 [DEBUG] Starting up as a console application
+16:50:54,835 [INFO ] The Quartz服务名称 service is now running, press Control+C to exit.
+16:50:54,851 [INFO ] TestJob测试
+16:50:54,851 [ERROR] 错大师傅大师傅但是
+16:50:57,008 [INFO ] TestJob测试
+16:50:57,008 [ERROR] 错大师傅大师傅但是
+16:51:00,009 [INFO ] TestJob测试
+16:51:00,009 [ERROR] 错大师傅大师傅但是
+16:51:03,009 [INFO ] TestJob测试
+16:51:03,009 [ERROR] 错大师傅大师傅但是

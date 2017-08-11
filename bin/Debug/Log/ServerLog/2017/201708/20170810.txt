@@ -1,0 +1,14 @@
+
+19:08:21,078 [INFO ] Configuration Result:
+[Success] Name Quartz服务名称
+[Success] DisplayName Quartz服务显示名称
+[Success] Description Quartz调度服务描述
+[Success] ServiceName Quartz服务名称
+19:08:21,093 [INFO ] Topshelf v4.0.0.0, .NET Framework v4.0.30319.42000
+19:08:21,172 [DEBUG] Running as a console application, creating the console host.
+19:08:21,172 [DEBUG] Starting up as a console application
+19:08:21,297 [INFO ] The Quartz服务名称 service is now running, press Control+C to exit.
+19:08:21,312 [INFO ] TestJob测试
+19:08:21,328 [ERROR] 错大师傅大师傅但是
+19:08:24,001 [INFO ] TestJob测试
+19:08:24,001 [ERROR] 错大师傅大师傅但是

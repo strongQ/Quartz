@@ -1,0 +1,84 @@
+
+ 
+记录时间：2017-08-09 16:49:28,409 
+线程ID:[QuartzTest_Worker-2] 
+日志级别：  INFO  
+日志描述：TestJob测试
+ 
+
+ 
+记录时间：2017-08-09 16:49:28,409 
+线程ID:[QuartzTest_Worker-2] 
+日志级别：  ERROR 
+日志描述：错大师傅大师傅但是
+ 
+
+ 
+记录时间：2017-08-09 16:49:30,003 
+线程ID:[QuartzTest_Worker-4] 
+日志级别：  INFO  
+日志描述：TestJob测试
+ 
+
+ 
+记录时间：2017-08-09 16:49:30,003 
+线程ID:[QuartzTest_Worker-4] 
+日志级别：  ERROR 
+日志描述：错大师傅大师傅但是
+ 
+
+ 
+记录时间：2017-08-09 16:50:54,851 
+线程ID:[QuartzTest_Worker-2] 
+日志级别：  INFO  
+日志描述：TestJob测试
+ 
+
+ 
+记录时间：2017-08-09 16:50:54,851 
+线程ID:[QuartzTest_Worker-2] 
+日志级别：  ERROR 
+日志描述：错大师傅大师傅但是
+ 
+
+ 
+记录时间：2017-08-09 16:50:57,008 
+线程ID:[QuartzTest_Worker-4] 
+日志级别：  INFO  
+日志描述：TestJob测试
+ 
+
+ 
+记录时间：2017-08-09 16:50:57,008 
+线程ID:[QuartzTest_Worker-4] 
+日志级别：  ERROR 
+日志描述：错大师傅大师傅但是
+ 
+
+ 
+记录时间：2017-08-09 16:51:00,009 
+线程ID:[QuartzTest_Worker-6] 
+日志级别：  INFO  
+日志描述：TestJob测试
+ 
+
+ 
+记录时间：2017-08-09 16:51:00,009 
+线程ID:[QuartzTest_Worker-6] 
+日志级别：  ERROR 
+日志描述：错大师傅大师傅但是
+ 
+
+ 
+记录时间：2017-08-09 16:51:03,009 
+线程ID:[QuartzTest_Worker-7] 
+日志级别：  INFO  
+日志描述：TestJob测试
+ 
+
+ 
+记录时间：2017-08-09 16:51:03,009 
+线程ID:[QuartzTest_Worker-7] 
+日志级别：  ERROR 
+日志描述：错大师傅大师傅但是
+ 
